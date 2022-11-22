@@ -1,0 +1,10 @@
+{
+  "root":"store",
+  "name":"jonas",
+  "stores":{
+    "customers":{
+      "filename":"jcustomers.db",
+      "ensure":{}
+    }
+  }
+}
