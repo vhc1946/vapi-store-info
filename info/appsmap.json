@@ -26,13 +26,12 @@
         "map": {}
       }
     },
-    "VMT": {
-      "wos": {
+    "VFT": {
+      "techwos": {
         "filename": "masterwos.db",
         "ensure": {
           "fieldName": "id",
-          "unique": true,
-          "sparse": true
+          "unique": true
         },
         "maps": {}
       }
